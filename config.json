@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpalculate",
+        "uuid": 25810848,
+        "checksum": "4jxf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
